@@ -1,0 +1,50 @@
+ody {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: darkred;
+    padding: 15px;
+    margin: 15px;
+}
+
+header, p{
+    color: darkturquoise;
+}
+
+header, a{
+    border: 2px solid #10cfe8;  
+    text-decoration:solid;
+    padding: 3px;
+    margin: 4px;
+    color: deepskyblue;
+    border-radius: 6px;
+}
+
+h1{
+    font-size: 58px;
+}
+
+footer{
+    background-color: darkred;
+    margin: 15px;
+}
+
+footer,p{
+    color: thistle;
+    border: 1px solid white;
+}
+
+.fair {
+    background-color: #62ff00;
+    color: red;
+}  
+
+p{
+    font-size: 25px;
+    margin: 19px;
+}
+
+h2 {
+    font-size: 45px;
+}
